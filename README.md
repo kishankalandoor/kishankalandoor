@@ -157,10 +157,6 @@ Industry Recognition, 2024
 **Winner of IEEE Inter-College Graphic Designing Competition**  
 IEEE Competition, 2024
 
-**Published Research Paper**  
-"Sentiment Analysis in Regional Language (Kannada)"  
-IEEE International Conference 2025, MIT Manipal
-
 **Patent Holder**  
 Milk Analysis Instrument & Software  
 Developed for KSS Society and MILMA, 2024
