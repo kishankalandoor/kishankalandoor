@@ -71,16 +71,6 @@ NMAM Institute of Technology, NITTE University
 
 ---
 
-<br>
-
-## Research Experience
-
-**Sentiment Analysis in Regional Language (Kannada)**
-
-Published in IEEE International Conference 2025 at MIT Manipal  
-[Read Paper on IEEE Xplore](https://ieeexplore.ieee.org/document/10957647)
-
-Research focuses on emotion classification in Kannada text using Machine Learning and Deep Learning techniques.
 
 <br>
 
