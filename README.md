@@ -1,158 +1,313 @@
-<div align="center"><div align="center"><div align="center"><div align="center">
+<div align="center"><div align="center"><div align="center"><div align="center"><div align="center">
 
 
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=header&text=Hi,%20I'm%20Kishan%20K&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Kishan+K;Full+Stack+Developer;SEO+Expert+%7C+Prompt+Engineering+Enthusiast;Frontend+Specialist+%7C+IEEE+Chairperson;Building+user-centric+digital+experiences!" alt="Typing SVG" />
+# Kishan K
 
 
 
-</div></div>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Kishan+K;Full+Stack+Developer+%7C+Patent+Holder;SEO+Expert+%7C+Prompt+Engineering+Enthusiast;Frontend+Specialist+%7C+IEEE+Chairperson;Building+user-centric+digital+experiences!" alt="Typing SVG" />  <img sr**B.Tech in Computer Science & Engineering** | NMAM Institute of Technology, NITTE University (2022 – 2026)
+### Full Stack Developer • SEO Expert • IEEE Chairperson  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=header&text=Hi,%20I'm%20Kishan%20K&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Kishan+K;Full+Stack+Developer;SEO+Expert+%7C+Prompt+Engineering+Enthusiast;Frontend+Specialist+%7C+IEEE+Chairperson;Building+user-centric+digital+experiences!" alt="Typing SVG" />
 
 
+
+<br>
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishankalandoor)</div></div>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Kishan+K;Full+Stack+Developer+%7C+Patent+Holder;SEO+Expert+%7C+Prompt+Engineering+Enthusiast;Frontend+Specialist+%7C+IEEE+Chairperson;Building+user-centric+digital+experiences!" alt="Typing SVG" />  <img sr**B.Tech in Computer Science & Engineering** | NMAM Institute of Technology, NITTE University (2022 – 2026)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kishankalandoor)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kishankalandoor@ieee.org)
+
+[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat&logo=ieee&logoColor=white)](https://linkedin.com/in/kishankalandoor)
 
 <h1 align="center">
 
+</div>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Kishan+K;Full+Stack+Developer;SEO+Expert+%7C+Prompt+Engineering+Enthusiast;Frontend+Specialist+%7C+IEEE+Chairperson;Building+user-centric+digital+experiences!" alt="Typing SVG" />
+
+---
 
 </h1><h1 align="center"></div>
 
+## About
 
+
+
+Building user-centric digital experiences through clean code and thoughtful design. Specializing in full-stack development, performance optimization, and SEO strategy.
 
 <div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=header&text=Hi,%20I'm%20Kishan%20K&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/>
 
+**Currently:** B.Tech in Computer Science & Engineering at NMAM Institute of Technology (2022-2026)
 
+
+
+**Focus Areas:** Frontend Development • Backend Solutions • SEO Optimization • Prompt Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishankalandoor)</h1><table>
 
+---
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishankalandoor)
+
+## Technical Expertise
 
 [![Email](https://img.shields.io/badge/Email_IEEE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishankalandoor@ieee.org)
 
-[![IEEE](https://img.shields.io/badge/IEEE_Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://linkedin.com/in/kishankalandoor)
+### Languages & Frameworks
 
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919496605217)<p align="center"><h1 align="center"><tr>
+```[![IEEE](https://img.shields.io/badge/IEEE_Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://linkedin.com/in/kishankalandoor)
 
+JavaScript • TypeScript • Python • PHP
 
-
-</div>  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;SEO+%26+Performance+Optimization+Expert;Prompt+Engineering+Specialist;IEEE+Chairperson+NMAMIT">
-
-
-
----</p>  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=header&text=Hi,%20I'm%20Kishan%20K&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/><td width="50%">
-
-
-
-## About Me
-
-
-
-<table><div align="center"></h1>
-
-<tr>
-
-<td width="60%">  
-
-
-
-> ### A passionate Full-Stack Developer who loves turning ideas into responsive, user-friendly websites and applications.[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishankalandoor)**Currently working on:**  
-
-
-
-Beyond coding, I enjoy improving website performance, SEO, and running Google Ads campaigns to help businesses grow online. With a mix of hands-on development, UI/UX design, and curiosity for emerging tech like prompt engineering, I focus on creating solutions that are not just functional but meaningful for users.[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishankalandoor)
-
-
-
-**B.Tech in Computer Science & Engineering**  [![Email](https://img.shields.io/badge/Email_IEEE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishankalandoor@ieee.org)<p align="center">Advanced Full-Stack Projects, SEO Optimization, and Prom## Education
-
-NMAM Institute of Technology, NITTE University (2022 – 2026)
-
-[![IEEE](https://img.shields.io/badge/IEEE_Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://linkedin.com/in/kishankalandoor)
-
-**Fun fact:** I've won hackathons and optimized websites to rank #1 on Google!
-
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919496605217)  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;SEO+%26+Performance+Optimization+Expert;Prompt+Engineering+Specialist;Patent+Holder+%7C+Research+Scholar;IEEE+Chairperson+NMAMIT">
-
-</td>
-
-<td width="40%">
-
-
-
-```yaml</div></p>**Bachelor of Technology (B.Tech) in Computer Science & Engineering**  
-
-currently_working_on:
-
-  - Advanced Full-Stack Projects
-
-  - SEO Optimization
-
-  - Prompt Engineering---NMAM Institute of Technology, NITTE University  
-
-
-
-expertise:
-
-  - Frontend Development
-
-  - Full-Stack Solutions## About Me<div align="center">2022 – 2026  
-
-  - SEO & Digital Marketing
-
-  - Prompt Engineering
-
-  - Spline 3D
-
-<table>  IEEE Chairperson | Active in research and development
-
-contact:
-
-  email: kishankalandoor@ieee.org<tr>
-
-  phone: +91 9496605217
-
-  <td width="60%">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishankalandoor)
-
-ieee_leadership:
-
-  - Chairperson (NMAMIT)
-
-  - Tech Co-Lead (Mangalore)
-
-  - Member (IEEE MDC Bengaluru)> ### A passionate Full-Stack Developer who loves turning ideas into responsive, user-friendly websites and applications.[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishankalandoor)**Pre-University College**  
+React.js • Node.js • Express.js • Next.js[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919496605217)<p align="center"><h1 align="center"><tr>
 
 ```
 
 
 
-</td>
+### Frontend Specialization
 
-</tr>Beyond coding, I enjoy improving website performance, SEO, and running Google Ads campaigns to help businesses grow online. With a mix of hands-on development, UI/UX design, and curiosity for emerging tech like prompt engineering, I focus on creating solutions that are not just functional but meaningful for users.[![Email](https://img.shields.io/badge/Email_IEEE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishankalandoor@ieee.org)2020 – 2022
+```</div>  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;SEO+%26+Performance+Optimization+Expert;Prompt+Engineering+Specialist;IEEE+Chairperson+NMAMIT">
 
-</table>
+Tailwind CSS • Bootstrap 5 • Bulma • Windi CSS
+
+Three.js • Spline 3D • Responsive Design
+
+```
+
+---</p>  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=header&text=Hi,%20I'm%20Kishan%20K&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/><td width="50%">
+
+### Backend & Databases
+
+```
+
+Node.js • Express.js • PHP
+
+MySQL • MongoDB • REST APIs## About Me
+
+```
 
 
+
+### Tools & Marketing
+
+```<table><div align="center"></h1>
+
+Git • GitHub • WebSockets • AJAX
+
+Google Ads • Meta Ads • SEO Optimization<tr>
+
+```
+
+<td width="60%">  
 
 ---
 
-**B.Tech in Computer Science & Engineering**  [![IEEE](https://img.shields.io/badge/IEEE_Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://linkedin.com/in/kishankalandoor)
 
-## Tech Stack & Expertise
 
-NMAM Institute of Technology, NITTE University (2022 – 2026)
+## Experience
 
-### Core Languages
+> ### A passionate Full-Stack Developer who loves turning ideas into responsive, user-friendly websites and applications.[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishankalandoor)**Currently working on:**  
 
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919496605217)<br>ing
+**Full Stack Developer** • Kakunje Software Pvt. Ltd.  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Healthcare platforms and business solutions
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)**Fun fact:** I've won hackathons and optimized websites to rank #1 on Google!
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Web Development Intern** • Viprith Inobyte  Beyond coding, I enjoy improving website performance, SEO, and running Google Ads campaigns to help businesses grow online. With a mix of hands-on development, UI/UX design, and curiosity for emerging tech like prompt engineering, I focus on creating solutions that are not just functional but meaningful for users.[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishankalandoor)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+Corporate website development
+
+
+
+**Freelance Developer** • CG Software Solutions  
+
+Custom client projects**B.Tech in Computer Science & Engineering**  [![Email](https://img.shields.io/badge/Email_IEEE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishankalandoor@ieee.org)<p align="center">Advanced Full-Stack Projects, SEO Optimization, and Prom## Education
+
+
+
+---NMAM Institute of Technology, NITTE University (2022 – 2026)
+
+
+
+## Featured Projects[![IEEE](https://img.shields.io/badge/IEEE_Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://linkedin.com/in/kishankalandoor)
+
+
+
+### [CAD Foundation](https://www.cadfmangaluru.com)**Fun fact:** I've won hackathons and optimized websites to rank #1 on Google!
+
+Healthcare platform connecting patients with cardiologists
+
+- Online appointment system[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919496605217)  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;SEO+%26+Performance+Optimization+Expert;Prompt+Engineering+Specialist;Patent+Holder+%7C+Research+Scholar;IEEE+Chairperson+NMAMIT">
+
+- Patient management
+
+- SEO optimized for local search</td>
+
+
+
+### [Shesha Kuteera](https://www.sheshakuteera.com)<td width="40%">
+
+Complete hotel and restaurant management system
+
+- Online menu and ordering
+
+- Reservation management
+
+- Billing system```yaml</div></p>**Bachelor of Technology (B.Tech) in Computer Science & Engineering**  
+
+
+
+### [Viprith Inobyte](https://www.viprithinobyte.in)currently_working_on:
+
+Corporate website with modern design
+
+- SEO optimized  - Advanced Full-Stack Projects
+
+- Performance tuned
+
+- Responsive layout  - SEO Optimization
+
+
+
+### Pharmacy Management System  - Prompt Engineering---NMAM Institute of Technology, NITTE University  
+
+Custom solution for PM Jan Aushadhi Kendra
+
+- Inventory management
+
+- Billing system
+
+- Reports and analyticsexpertise:
+
+
+
+---  - Frontend Development
+
+
+
+## Research & Innovation  - Full-Stack Solutions## About Me<div align="center">2022 – 2026  
+
+
+
+### IEEE Published Research  - SEO & Digital Marketing
+
+**Sentiment Analysis in Regional Language (Kannada)**  
+
+IEEE International Conference 2025 • MIT Manipal    - Prompt Engineering
+
+[Read Paper →](https://ieeexplore.ieee.org/document/10957647)
+
+  - Spline 3D
+
+### Patent Holder
+
+**Milk Analysis Instrument & Software**  <table>  IEEE Chairperson | Active in research and development
+
+Developed for KSS Society and MILMA • 2024
+
+contact:
+
+Real-time milk parameter measurement with IoT integration and custom software for data analysis.
+
+  email: kishankalandoor@ieee.org<tr>
+
+---
+
+  phone: +91 9496605217
+
+## Recognition
+
+  <td width="60%">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishankalandoor)
+
+| Achievement | Year | Organization |
+
+|------------|------|--------------|ieee_leadership:
+
+| Winner - The Primed Placement Hackathon | 2024 | Industry Event |
+
+| Winner - IEEE Graphic Design Competition | 2024 | IEEE Inter-College |  - Chairperson (NMAMIT)
+
+| IEEE Chairperson | 2024-Present | NMAMIT Student Branch |
+
+| IEEE Tech Co-Lead | 2024-Present | Mangalore Section |  - Tech Co-Lead (Mangalore)
+
+| IEEE Member | 2023-Present | IEEE MDC Bengaluru |
+
+  - Member (IEEE MDC Bengaluru)> ### A passionate Full-Stack Developer who loves turning ideas into responsive, user-friendly websites and applications.[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishankalandoor)**Pre-University College**  
+
+---
+
+```
+
+## GitHub Activity
+
+
+
+<div align="center">
+
+</td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kishankalandoor&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishankalandoor&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="165"/></tr>Beyond coding, I enjoy improving website performance, SEO, and running Google Ads campaigns to help businesses grow online. With a mix of hands-on development, UI/UX design, and curiosity for emerging tech like prompt engineering, I focus on creating solutions that are not just functional but meaningful for users.[![Email](https://img.shields.io/badge/Email_IEEE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishankalandoor@ieee.org)2020 – 2022
+
+
+
+<br><br></table>
+
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishankalandoor&theme=default&hide_border=true" alt="GitHub Streak" width="500"/>
+
+
+
+</div>---
+
+
+
+---**B.Tech in Computer Science & Engineering**  [![IEEE](https://img.shields.io/badge/IEEE_Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://linkedin.com/in/kishankalandoor)
+
+
+
+## Connect## Tech Stack & Expertise
+
+
+
+**Email:** kishankalandoor@ieee.org  NMAM Institute of Technology, NITTE University (2022 – 2026)
+
+**Phone:** +91 9496605217  
+
+**Location:** Karnataka, India### Core Languages
+
+
+
+Open to collaborating on full-stack projects, SEO optimization, and innovative web solutions.[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919496605217)<br>ing
+
+
+
+---![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+<div align="center">![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)**Fun fact:** I've won hackathons and optimized websites to rank #1 on Google!
+
+
+
+**© 2025 Kishan K**![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+
+
+Building the future, one line of code at a time.![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+</div>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</td>
 
