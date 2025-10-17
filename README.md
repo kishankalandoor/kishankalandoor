@@ -65,7 +65,7 @@ NMAM Institute of Technology, NITTE University
 
 - Customized **Pharmacy Management System** for PM Jan Aushadhi Kendra
 - **Hotel Management and Menu Websites**, including Shesha Kuteera Hotel ([sheshakuteera.com](https://www.sheshakuteera.com))
-- Multiple responsive web applications under CG Software Solutions
+- Multiple responsive web applications under Kakunje Software Pvt. Ltd. and other companies
 
 <br>
 
