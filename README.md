@@ -2,7 +2,7 @@
 
 # Kishan K
 
-### Full Stack Developer | SEO Expert | IEEE Chairperson
+### Full Stack Developer · Digital Marketing & SEO Specialist · Performance Optimization · Responsive Design · Spline 3D Enthusiast · Creative Problem Solver
 
 <br>
 
